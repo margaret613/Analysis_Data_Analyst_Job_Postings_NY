@@ -6,8 +6,6 @@
 
 **In this coding project, my main goal is to extract data analyst job listings from Indeed.com, specifically targeting 100 pages in New York. Additionally, I will create an informative Tableau dashboard that presents job titles, company distribution, average hourly and yearly earnings, and the key skills and qualifications in high demand for data analysts in today's job market.**
 
-# Report
-
 ## I. Introduction
 
 This report comprehensively analyzes job postings for data analyst positions in New York, NY (with some positions in New Jersey, NJ, due to the system's search for jobs near the specified location on Indeed.com). The data was collected from Indeed.com, a popular job search website, and provides valuable insights into the current job market and trends in the data analyst field. The collected data consists of 553 job postings and includes information such as job title, company name, job description, location, posting date, and salaries.
